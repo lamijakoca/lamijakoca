@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! 👋
+## I'm software engineering student.
 
-<!--
-**lamijakoca/lamijakoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a lot of university projects
+- 🌱 I’m currently learning AI, Blockchain...
 
-Here are some ideas to get you started:
+```javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    const skills = {
+        programmingLanguages: ["JavaScript", "PHP","JAVA","Python","C#"],
+        frontendDevelopment: ["React", "HTML","CSS", "Bootstrap"],
+        backendDevelopment: ["Node", "Spring","Express"],
+        mobileAppDevelopment: ["React Native", "Android"],
+        databases: ["mongoDB", "MySQL", "PostgreSQL", "MS SQL"],
+        testing: "jest"
+    }
