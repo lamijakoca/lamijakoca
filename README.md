@@ -8,9 +8,9 @@
 
     const skills = {
         programmingLanguages: ["JavaScript", "PHP","JAVA","Python","C#"],
-        frontendDevelopment: ["React", "HTML","CSS", "Bootstrap"],
-        backendDevelopment: ["Node", "Spring","Express"],
-        mobileAppDevelopment: ["React Native", "Android"],
         databases: ["mongoDB", "MySQL", "PostgreSQL", "MS SQL"],
+        mobileAppDevelopment: ["React Native", "Android"],
+        backendDevelopment: ["Node", "Spring","Express"],
+        frontendDevelopment: "React",
         testing: "jest"
     }
