@@ -1,9 +1,6 @@
 ### Hi there! 👋
 ## I'm software engineering student.
 
-- 🔭 I’m currently working on a lot of university projects
-- 🌱 I’m currently learning AI, Blockchain...
-
 ```javascript
 
     const skills = {
